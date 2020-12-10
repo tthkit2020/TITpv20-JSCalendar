@@ -34,7 +34,7 @@
 }
 
 .image {
-    background-image: url('../img/pic1.jpg');
+    background-image: none;
     background-size: cover;
     background-position: center;
 }
